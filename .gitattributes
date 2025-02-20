@@ -4,3 +4,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionLis
 public class GUI Calculator Presentation
 {
+ JButton b10,b11,b12,b13,b14,b15; 
+   JButton b[]=new JButton[10];
+    int i,r,n1,n2;
