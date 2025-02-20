@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionLis
+public class GUI Calculator Presentation
+{
